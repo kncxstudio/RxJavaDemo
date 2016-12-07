@@ -1,4 +1,4 @@
-# ApplicationDemo
+# RxJavaDemo
 
 主要是RxJava 各种操作符（包括线程调度）的使用范例。
 
